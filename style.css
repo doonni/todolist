@@ -360,7 +360,7 @@ main {
   text-decoration: line-through;
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1000px) {
   body {
     --top-img: url("./images/bg-desktop-dark.jpg");
   }
