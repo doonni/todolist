@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 
 * {
   margin: 0;
@@ -105,7 +106,7 @@ transform: rotate(-45deg) translate(35px, 35px);
 }
 .menu-items {
   text-align: center;
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Fredoka One', cursive;
   font-size: 3rem;
 }
 ul {
