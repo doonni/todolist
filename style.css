@@ -1,8 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
 
 * {
   margin: 0;
@@ -106,8 +105,8 @@ transform: rotate(-45deg) translate(35px, 35px);
 }
 .menu-items {
   text-align: center;
-  font-family: 'Rubik Mono One', sans-serif;
-  font-size: 3rem;
+  font-family: 'Sarabun', sans-serif;
+  font-size: 2rem;
 }
 ul {
   margin: 1%;
