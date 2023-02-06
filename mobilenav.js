@@ -1,3 +1,4 @@
+// Hamburger menu for mobile users!
 const menuBtn = document.querySelector('.menu-btn');
 const content = document.querySelector('.dropdown_content');
 console.log(content);
