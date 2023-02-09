@@ -127,19 +127,19 @@ li a {
 }
 a:link {
   text-decoration: none;
-  color: rgb(255, 255, 255);
+  color: rgb(237, 55, 201);
 }
 a:visited {
   text-decoration: none;
-  color: rgb(255, 255, 255);
+  color: rgb(237, 55, 201);
 }
 a:hover {
   text-decoration: underline;
-  color: rgb(255, 255, 255);
+  color: rgb(237, 55, 201);
 }
 a:active {
   text-decoration: underline;
-  color: rgb(255, 255, 255);
+  color: rgb(237, 55, 201);
 }
 .nav-desktop {
 display: none;
